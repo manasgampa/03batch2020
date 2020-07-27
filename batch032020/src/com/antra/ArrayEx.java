@@ -8,7 +8,7 @@ public class ArrayEx {
 		i[1]=3;
 		i[2]=67;
 		//i[3]=89;
-		
+		//for loop
 		for(int j=0;j<i.length;j++) {
 			
 			System.out.println(i[j]);
